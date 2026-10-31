@@ -1,0 +1,6 @@
+{
+  "name": "SkillForge AI",
+  "description": "SkillForge AI — An Agentic AI-Powered Personalized Learning and Development Platform. Identify Skill Gaps. Learn Smarter. Become Job-Ready.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
